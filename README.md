@@ -1,3 +1,3 @@
-crud book api
-server: sqlite 3
+crud book api <br/>
+server: sqlite 3 <br/>
 start: rails s -p 3001
